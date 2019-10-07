@@ -32,4 +32,5 @@ app.get("/user/:name", (req, res, next) => {
         return res.send( "User " + req.params.name);
 });
 
-app.listen(3000);
+console.log("listening to port 5000");
+app.listen(5000);
