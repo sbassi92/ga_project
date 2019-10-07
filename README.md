@@ -3,7 +3,7 @@
 clone the repository
 ```
 
-   git clone https://github.com/self-tuts/express-todo-app.git 
+   git clone https://github.com/sbassi92/ga_project.git 
 
 
 ```
