@@ -13,6 +13,7 @@ Install the libraries from npm
 ```
 
     npm install
+    npm install --save pug, express, body-parser
 
 
 ```
@@ -21,7 +22,7 @@ Running the app
 
 ```
 
-    node app.js
+    npm start
 
 
 ```
